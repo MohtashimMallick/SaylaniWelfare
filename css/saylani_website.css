@@ -1,0 +1,192 @@
+
+.back_theame
+{   
+    background-color: #d4ddfcdc;
+}
+hr
+{
+    padding-top: 0%;
+    margin-top: 0%;
+    border:2px solid rgba(0, 0, 0, 0.185);
+}
+img:hover
+{
+    opacity: 0.9;
+    cursor:pointer;
+}
+a._logo
+{
+    margin-top: 0%;
+    padding-top: 0%;
+    width:50%
+}
+.header
+{
+    background-color:  #8ec63f80;
+    padding: 0%;
+   
+}
+
+form.search
+{
+    vertical-align: bottom;
+    padding-top:0%; 
+    text-align: right; width:50%; float:right;
+}
+ul.navv > li:hover 
+{
+    
+    border-radius: 20px;
+    background-color: #0065b39a;
+}
+.rounded_dropdown
+{
+    border-radius: 10px;
+}
+
+.nav_Dropbox_bg
+{
+  background-color: rgba(93, 189, 98, 0.918)  
+} 
+
+ul.slide_latestNews
+{
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+   
+}
+li.slide_news_content
+{
+    padding-right: 5%;
+    font-size: 12px;
+    display: inline-block;
+
+    }
+a.custom_cat_class{
+    
+    color: #510eec;
+}
+p
+{
+    overflow: hidden;
+    font-size: 11px;
+
+}
+.font_style
+{
+    font-size: 9px;
+
+}
+.about_us
+{
+    background-color: aliceblue;
+    border-radius: 100px;
+      margin-top:10%;
+       border:10px #8ec63f80 groove; 
+}
+.footer
+{
+    margin-top: 10%;
+    background-color:  #8ec63f80;
+}
+ul.deco_none
+{
+    font-size: 18px;
+    padding: 0%;
+    list-style: none;
+}
+.footer_grid
+{
+    color:#176d14bd;
+}
+.foot_socail
+{
+    padding-left: 100px;
+    text-align: center;
+    display: inline;
+    
+}
+.footer_nav
+{
+    background-color:#28a745; 
+    color:rgb(212, 212, 211);
+     border-radius: 10px;
+}
+p.foot
+{
+    display: inline-block;
+}
+.banner
+{
+    width: 128px;
+    height: 128px;
+}
+.subscribe
+{
+    border-radius: 10px; background-color: rgba(173, 4, 4, 0.616); color:bisque;
+}
+
+/* MASS TRAINING */
+.post_meta_line
+{
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+}
+.post_time
+{
+    align-content: center;
+    display: inline-block;
+    background-color: rgba(201, 6, 6, 0.719)
+}
+.post_cats
+{
+    display: inline-block;
+    background-color: #28a745;
+    text-decoration-style: none;
+}
+.post_views
+{
+    display: inline-block;
+    text-align: center;
+    background-color: #32333267;
+}
+.everpage_bg_border
+{
+    border:2px #8ec63fe7 solid; border-radius: 10px; padding:3%; background-color: #8ec63f80; color:rgba(66, 66, 65, 0.863);
+}
+
+
+
+.Monthly_report
+{
+    font-size: 22px;
+    text-decoration: none;
+    color: rgba(206, 6, 6, 0.719)
+}
+
+a
+{
+   
+    color: #176d1491;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover
+{
+    cursor: pointer;
+    color: rgba(255, 0, 0, 0.616);
+}
+
+h1,h2,h3{
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+    cursor:pointer;
+}
+
